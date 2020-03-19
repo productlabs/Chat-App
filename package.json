@@ -11,7 +11,7 @@
   "dependencies": {
     "expo": "^36.0.2",
     "firebase": "^6.2.1",
-    "react": "16.8.6",
+    "react": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
     "react-native-gifted-chat": "^0.8.0",
     "react-native-router-flux": "^4.0.5"
