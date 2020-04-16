@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "expo": "^36.0.2",
-    "firebase": "^6.2.1",
+    "firebase": "^7.14.1",
     "react": "16.8.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
     "react-native-gifted-chat": "^0.8.0",
